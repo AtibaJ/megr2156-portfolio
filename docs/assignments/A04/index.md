@@ -8,15 +8,58 @@ To begin I had to create the equations that would model what would be created in
 </figure>
 
 <figure>
-  <img src = Feature1B.jpeg alt ="The second page of work before the cad model height" = "300" width ="300>
+  <img src = Feature1B.jpeg alt ="The second page of work before the cad model" height = "300" width ="300">
   <figcaption> This second page shows off more equations for finding unknowns smbolically.</figcaption>
 </figure>
 
+<figure>
+  <img src = Feature1D.jpeg alt ="This shows my third page of work" height ="300" width = "300">
+  <figcaption> This third page shows off the solving of equations using numbers and the beginning of modeling</figcaption>
+</figure>
+
 Next after designing my first parts equations I would do the same for the second Feature 
-## Analyze
+## Feature2
 
+Again for feature two like feature 1 I would start by finding my knowns and unknown equations to have a better understanding of my cad modeling. 
 
-## Decide
+<figure>
+  <img src= Feature2A.jpeg alt = "This shows off the first part of my feature 2" height ="300" width = "300"> 
+  <figcaption> This page shows off my unknowns, my knowns and my FBD</figcaption>
+</figure>
+
+<Figure>
+  <img src=Feature2C.jpeg alt="This is my second page of work for my feature 2" height="300" width="300">
+  <figcaption> This page shows off symbolic and numarical solving for feature 2</figcaption>
+</Figure>
+
+## Sketch 
+
+For the sketch I decided to base it again off a model I've seen in real life when doing my 1201 project. I had the idea to try to put a motor that we had on the car and imagine what it would look like if it was attached to a wall and this is what I came up with. 
+
+<Figure>
+  <img src = "Sketch.jpeg" alt = "This is my sketch for my cad design" height = "300" width = "300"> 
+  <figcaption> This is a basic model of what I want my cad design to look like numbers from figures 1 and 2 calculatons</figcaption>
+</Figure>
+## Cad design 
+
+To begin the cad design I started with putting in my parametric equations for the design
+<figure>
+  <img src = "parametric_design_two" alt = "This is my first cad image" height = "300" width = "300">
+  <figcaption> This image shows off my parametric equations for my cad design </figcaption>
+</figure>
+
+Next I would begin creating the base or figure 1 for my cad design 
+<figure>
+  <img src = "A4_Design1.png" alt = "This is the base of my cad design" height = "300" width ="300">
+  <figcaption> The base numbers are auto set from the parametric equations </figcaption>
+</figure>
+
+Next I would create the holes and create a constraint to make them equal to each other, the radii for my holes would be given by the A4 design constraint. 
+
+<figure>
+  <img src = "A4_RadiI.png" alt = "This is showing off my radii for the build" height = "300" width = "300">
+  <figcaption> This is my radii given showing the 3.4</figcaption>
+</figure>
 
 
 ## Communicate
