@@ -44,7 +44,7 @@ For the sketch I decided to base it again off a model I've seen in real life whe
 
 To begin the cad design I started with putting in my parametric equations for the design
 <figure>
-  <img src = "parametric_design_two" alt = "This is my first cad image" height = "300" width = "300">
+  <img src = "parametric_design_two.png" alt = "This is my first cad image" height = "300" width = "300">
   <figcaption> This image shows off my parametric equations for my cad design </figcaption>
 </figure>
 
@@ -54,12 +54,51 @@ Next I would begin creating the base or figure 1 for my cad design
   <figcaption> The base numbers are auto set from the parametric equations </figcaption>
 </figure>
 
-Next I would create the holes and create a constraint to make them equal to each other, the radii for my holes would be given by the A4 design constraint. 
+Then I would extrude this part to the again parametric thickness 
+<figure>
+  <img src ="A4_Extrude1.png" alt ="This is the first part for the build" height = "300" width = 300">
+  <figcaption>This shows off the base of the build</figcaption>
+</figure>
+
+Next I would create the holes and create a constraint to make them equal to each other, the radii for my holes would be given by the A4 design constraint. But before that I would have to put a centerline to create a placement of the holes exactly the same distances from the middle. 
+
+<figure>
+  <img src = "A4_Centerline.png" alt = "This is showing off my Centerline build" height = "300" width = "300">
+  <figcaption> This is my centerline given parametric equations for distance</figcaption>
+</figure>
+
+And this is my Radii 
 
 <figure>
   <img src = "A4_RadiI.png" alt = "This is showing off my radii for the build" height = "300" width = "300">
   <figcaption> This is my radii given showing the 3.4</figcaption>
 </figure>
+
+Next I would extrude the holes to create the clearance holes for the part 
+<figure>
+  <img src ="A4_Extrude2.png" alt ="This is the first hole extrude for the build" height = "300" width = 300">
+  <figcaption>This shows off the clearance holes being created</figcaption>
+</figure>
+
+After this I would create another box this time to hold the actual motor into place 
+<figure>
+  <img src =A4_Extrude3.png alt = "this shows off the place the motor will be held" height = "300" width ="300">
+  <figcaption> As previously stated the length is 100 mm but this was a mistake and was only 20mm</figcaption>
+</figure>
+
+Then I would fix that mistake and actually create the extrude to be 100mm
+<figure>
+  <img src =A4_Extrude4.png alt = "this shows off the place the motor will be held" height = "300" width ="300">
+  <figcaption>The length is now 100 mm/figcaption>
+</figure>
+
+Lastly I would create another extrude onto the last figure with the radius being the exact diameter of the motor so it can be designed to fit. 
+<figure>
+  <img src =A4_Extrude5.png alt = "this shows off the place the motor will be held" height = "300" width ="300">
+  <figcaption>The created motor mount placement </figcaption>
+</figure>
+
+
 
 
 ## Communicate
