@@ -101,5 +101,18 @@ Lastly I would create another extrude onto the last figure with the radius being
 
 
 
-## Communicate
+## Closing statements 
 
+If I were to do this again I would for starters maybe base my design off of another motor mount design. I think the creating from memory made me lose a lot of time and really messed and could've made my design much better. The total time for this project was around 8 hours from time spent making the equations to time spent designing the cad. 
+
+## Resources
+<ul>
+  <li><a href="https://uncc.instructure.com/eportfolios/2995/Home/Design_a_Simple_Machine"> Example Canvas</a></li>
+  <li><a hreff =https://www.omc-stepperonline.com/brushed-24v-dc-gear-motor-3-6kg-cm-46rpm-w-99-5-1-planetary-gearbox-pa28-28245800-g100">The motor engineering file</li>
+  <li><a href ="https://www.youtube.com/watch?v=HrNXgMZP71I&t=1"> How to make parametric equations in creo parametric</a> </li>
+</ul>
+
+## Download my Cad
+<a href="part2.prt.1" download>
+  Download File
+</a>
