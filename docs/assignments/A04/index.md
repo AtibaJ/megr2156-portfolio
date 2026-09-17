@@ -10,7 +10,7 @@ To begin I had to create the equations that would model what would be created in
 <figure>
   <img src = Feature1B.jpeg alt ="The second page of work before the cad model height" = "300" width ="300>
   <figcaption> This second page shows off more equations for finding unknowns smbolically.</figcaption>
-  </figure>
+</figure>
 
 Next after designing my first parts equations I would do the same for the second Feature 
 ## Analyze
