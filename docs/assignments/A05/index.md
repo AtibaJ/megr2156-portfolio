@@ -244,7 +244,7 @@ Assumptions:
 ## FBD and equations: 
 
 <figure>
-  <img src = "Feature3CFBD.jpeg" width = "500" height = "500"> 
+  <img src = "Feature3FBDp2.jpeg" width = "500" height = "500"> 
   <figcaption>This is the free body diagram of feature C Stiffness Analysis</figcaption>
 </figure>
 
