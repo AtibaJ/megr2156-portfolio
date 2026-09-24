@@ -244,7 +244,7 @@ Assumptions:
 ## FBD and equations: 
 
 <figure>
-  <img src = "Feature3CFBD" width = "500" height = "500"> 
+  <img src = "Feature3CFBD.jpeg" width = "500" height = "500"> 
   <figcaption>This is the free body diagram of feature C Stiffness Analysis</figcaption>
 </figure>
 
@@ -274,7 +274,7 @@ Assumptions:
 
 FBD and equations:
 <figure>
-  <img src = "Feature4DFBDp2" width = "500" height = "500"> 
+  <img src = "Feature4DFBDp2.jpeg" width = "500" height = "500"> 
   <figcaption>This is the free body diagram of feature D the stiffness analysis</figcaption>
 </figure>
 
@@ -304,7 +304,7 @@ Assumptions:
 
 ## FBD and equations: 
 <figure>
-  <img src = "Feature5EFBDp2" width = "500" height = "500"> 
+  <img src = "Feature5EFBDp2.jpeg" width = "500" height = "500"> 
   <figcaption>This is the free body diagram of feature E The stiffness analysis</figcaption>
 </figure>
 
@@ -320,8 +320,16 @@ Assumptions:
   </li>
   <li> 
 <figure>
-  <img src = "ViewStressAnalysis.jpeg" width = "500" height = "500"> 
+  <img src = "ViewStrainAnalysis.jpeg" width = "500" height = "500"> 
   <figcaption>This is the multiview sketch of the strain analysis showing top, right and front views</figcaption>
 </figure>
   </li>
+</ol>
+
+## Lessons Learned 
+<ol>
+  <li> For the feature of a the pin my diameter governed the final sizing of the stiffness of A. Because of the safety factor 
+  an extra 0.279 inches was required in diameter as compared to the stiffness sizing</li>
+  <li>This happened throughout my design as the load on A acted upon feature b and c that load was carried and then changed once we got to d and it changed split into two loads of 600 there. </li>
+  <li>One of the biggest assumptions I made was that load was uniform across the design. If the load wasn't assumed inform in the pieces I would get a 50% decrease in my moment balance equations.</li>
 </ol>
