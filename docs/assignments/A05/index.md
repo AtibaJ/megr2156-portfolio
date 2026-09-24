@@ -11,7 +11,7 @@
 </ul>
 
 
-## Feature 1 (A) : 
+## Feature 1 (A) Stress Analysis : 
 
 Knowns: 
   <ul>
@@ -35,7 +35,7 @@ Assumptions:
 
 FBD and equations: 
 
-## Feature 2 (B): 
+## Feature 2 (B) Stress Analysis: 
 
 Knowns:
   <ul> 
@@ -61,7 +61,7 @@ Assumptions:
 
 FBD and equations: 
 
-## Feature 3 (C):
+## Feature 3 (C) Stress Analysis:
 
 Knowns: 
 <ul> 
@@ -88,7 +88,7 @@ Assumptions:
 
 FBD and equations: 
 
-## Feature 4 (D)
+## Feature 4 (D) Stress Analysis:
 
 Knowns:
 <ul>
@@ -115,7 +115,7 @@ Assumptions:
 
 FBD and equations: 
 
-## Feature 5 (E): 
+## Feature 5 (E) Stress Analysis: 
 
 Knowns: 
 <ul>
@@ -142,5 +142,103 @@ Assumptions:
 FBD and equations: 
 
 
-## Communicate
+## Feature 1 (A) Stiffness Analysis: 
+
+Knowns: 
+<ul>
+  <li>Pin Overhang (La) = 2.0 in</li>
+  <li>Maximum allowable deflection = 0.005</li>
+  <li>Pa = 1200 lbf</li>
+</ul>
+
+Unknown: 
+<ul>
+  <li>Bending stiffness (ka)</li>
+  <li>The cross sectional inertia (Ia) </li>
+  <li>Cross sectional dimeter based on stiffness</li>
+</ul>
+
+Assumptions: 
+<ul>
+  <li> The material is homogeneous, and acts in linear elastic regime</li>
+  <li>Shear deflection are assumed negligible</li>
+  <li>The strap load is a concentrated point load at the free point end</li>
+</ul>
+
+FBD: 
+
+## Feature 2 (B) Stiffness Analysis:
+
+Known: 
+<ul>
+  <li>The force is 1200 lbf</li>
+  <li>Link length is 3 in</li>
+</ul>
+
+Unknown: 
+<ul>
+  <li>The minimum required cross sectional area</li>
+  <li>The minimum required length</li>
+  <li>Axial Stiffness</li>
+</ul>
+
+Assumptions: 
+<ul>
+  <li>Feature 2(B) is a vertical two force bar</li>
+  <li>Shear and bending deflections are assumed negligible</li>
+  <li>Assumed thickness is 0.5</li>
+</ul>
+
+FBD: 
+
+## Feature 3 (C) Stiffness Analysis: 
+
+Known: 
+<ul>
+  <li>The max deflection is 0.005 in</li>
+  <li>Span Length is 2.5 in</li>
+</ul>
+
+Unknowns: 
+<ul>
+  <li>Cross section of inertia = Ic</li>
+  <li>Stiffness of the flex kc</li>
+  <li>The min beam thickness and height</li>
+</ul>
+
+Assumptions: 
+<ul>
+  <li>Depth into page is 1.0 in (wc)</li>
+  <li>The material is linearly inelastic</li>
+  <li>Horizontally supported simple loaded beam</li>
+</ul>
+
+FBD: 
+## Feature 4 (D) Stiffness Analysis:
+
+Knowns: 
+<ul>
+  <li>Leg length = 1.499 in</li>
+  <li>The material</li>
+  <li>The max allowed deflection</li>
+  <li>Depth into is 1.0 in</li>
+</ul>
+
+Unknowns: 
+<ul>
+  <li>Cross sectional area</li>
+  <li>Axial Stiffness</li>
+  <li>The minimum wall thickness</li>
+</ul>
+
+Assumptions: 
+<ul>
+  <li> Feature 4(D) is a two force memeber</li>
+  <li>Axial load is thickness times depth</li>
+  <li>Direct shear and bending are can be ignored</li>
+</ul>
+
+FBD:
+
+## Feature 5 (E) Stiffness Analysis:
 
