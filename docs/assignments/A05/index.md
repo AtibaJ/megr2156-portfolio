@@ -165,7 +165,7 @@ Assumptions:
   <li>The strap load is a concentrated point load at the free point end</li>
 </ul>
 
-FBD: 
+FBD and equations: 
 
 ## Feature 2 (B) Stiffness Analysis:
 
@@ -189,7 +189,7 @@ Assumptions:
   <li>Assumed thickness is 0.5</li>
 </ul>
 
-FBD: 
+FBD and equations: 
 
 ## Feature 3 (C) Stiffness Analysis: 
 
@@ -213,7 +213,7 @@ Assumptions:
   <li>Horizontally supported simple loaded beam</li>
 </ul>
 
-FBD: 
+FBD and equations: 
 ## Feature 4 (D) Stiffness Analysis:
 
 Knowns: 
@@ -238,7 +238,30 @@ Assumptions:
   <li>Direct shear and bending are can be ignored</li>
 </ul>
 
-FBD:
+FBD and equations:
 
 ## Feature 5 (E) Stiffness Analysis:
 
+Knowns: 
+<ul>
+  <li> Depth is 1.0 in</li>
+  <li>Flange is 0.9992 in</li>
+  <li>The max tip deflection is 0.005 in</li>
+  <li>Force is 600 lbf on each tip</li>
+</ul>
+
+Unknowns: 
+<ul>
+  <li>The moment of inertia for the cross section</li>
+  <li>The minimum flange thickness</li>
+  <li>Flexural stiffness</li>
+</ul>
+
+Assumptions: 
+<ul>
+  <li>Shear and bending are negligible</li>
+  <li>The reaciton force at the tip</li>
+  <li>Feature E is a cantilever beam fixed where it joins Feature D</li>
+</ul>
+
+FBD and equations: 
