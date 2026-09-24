@@ -33,7 +33,11 @@ Assumptions:
   <li>The deflection will be small compared to the length. </li>
 </ul>
 
-FBD and equations: 
+## FBD and equations: 
+<figure>
+  <img src = "Feature1FBD.jpeg" width = "500" height = "500">
+  <figcaption> The Freebody diagram of the circular bar treated as a cantilever beam</figcaption>
+</figure>
 
 ## Feature 2 (B) Stress Analysis: 
 
@@ -59,7 +63,11 @@ Assumptions:
   <li>Link thickness is 0.5 in</li>
 </ul>
 
-FBD and equations: 
+## FBD and equations: 
+<figure>
+  <img src = "Feature2 FBD.jpeg" width = "500" height = "500"> 
+  <figcaption>This is the free body diagram of feature B the connection between the bar and the flange</figcaption>
+</figure>
 
 ## Feature 3 (C) Stress Analysis:
 
@@ -86,7 +94,11 @@ Assumptions:
   <li>The beam depth is 1 inch</li>
 </ul>
 
-FBD and equations: 
+## FBD and equations: 
+<figure>
+  <img src = "Feature3CFBD.jpeg" width = "500" height = "500"> 
+  <figcaption>This is the free body diagram of feature C</figcaption>
+</figure>
 
 ## Feature 4 (D) Stress Analysis:
 
@@ -113,7 +125,11 @@ Assumptions:
   <li>The depth into the page can be assumed to be a 1 in</li>
 </ul>
 
-FBD and equations: 
+## FBD and equations: 
+<figure>
+  <img src = "Feature4FBD.jpeg" width = "500" height = "500"> 
+  <figcaption>This is the free body diagram of feature D</figcaption>
+</figure>
 
 ## Feature 5 (E) Stress Analysis: 
 
@@ -139,7 +155,11 @@ Assumptions:
   <li>The material is lineally elastic</li>
 </ul>
 
-FBD and equations: 
+## FBD and equations: 
+<figure>
+  <img src = "Feature5 E FBD.jpeg" width = "500" height = "500"> 
+  <figcaption>This is the free body diagram of feature E</figcaption>
+</figure>
 
 
 ## Feature 1 (A) Stiffness Analysis: 
@@ -165,7 +185,11 @@ Assumptions:
   <li>The strap load is a concentrated point load at the free point end</li>
 </ul>
 
-FBD and equations: 
+## FBD and equations: 
+<figure>
+  <img src = "Feature1FBDpt2.jpeg" width = "500" height = "500"> 
+  <figcaption>This is the free body diagram of feature A the circular bar in stiffness analysis</figcaption>
+</figure>
 
 ## Feature 2 (B) Stiffness Analysis:
 
@@ -189,7 +213,11 @@ Assumptions:
   <li>Assumed thickness is 0.5</li>
 </ul>
 
-FBD and equations: 
+## FBD and equations: 
+<figure>
+  <img src = "Feature2FBDpt2.jpeg" width = "500" height = "500"> 
+  <figcaption>This is the free body diagram of feature B stiffness analysis</figcaption>
+</figure>
 
 ## Feature 3 (C) Stiffness Analysis: 
 
@@ -213,7 +241,13 @@ Assumptions:
   <li>Horizontally supported simple loaded beam</li>
 </ul>
 
-FBD and equations: 
+## FBD and equations: 
+
+<figure>
+  <img src = "Feature3CFBD" width = "500" height = "500"> 
+  <figcaption>This is the free body diagram of feature C Stiffness Analysis</figcaption>
+</figure>
+
 ## Feature 4 (D) Stiffness Analysis:
 
 Knowns: 
@@ -239,6 +273,10 @@ Assumptions:
 </ul>
 
 FBD and equations:
+<figure>
+  <img src = "Feature4DCFBDp2" width = "500" height = "500"> 
+  <figcaption>This is the free body diagram of feature D the stiffness analysis</figcaption>
+</figure>
 
 ## Feature 5 (E) Stiffness Analysis:
 
@@ -264,4 +302,26 @@ Assumptions:
   <li>Feature E is a cantilever beam fixed where it joins Feature D</li>
 </ul>
 
-FBD and equations: 
+## FBD and equations: 
+<figure>
+  <img src = "Feature5ECFBDp2" width = "500" height = "500"> 
+  <figcaption>This is the free body diagram of feature E The stiffness analysis</figcaption>
+</figure>
+
+
+## Multiview Sketches
+
+<ol>
+  <li> 
+<figure>
+  <img src = "View stress analysis.jpeg" width = "500" height = "500"> 
+  <figcaption>This is the multiview sketch of the stress analysis showing top, right and front views</figcaption>
+</figure>
+  </li>
+  <li> 
+<figure>
+  <img src = "ViewStressAnalysis.jpeg" width = "500" height = "500"> 
+  <figcaption>This is the multiview sketch of the strain analysis showing top, right and front views</figcaption>
+</figure>
+  </li>
+</ol>
