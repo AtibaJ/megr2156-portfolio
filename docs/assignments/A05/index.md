@@ -274,7 +274,7 @@ Assumptions:
 
 FBD and equations:
 <figure>
-  <img src = "Feature4DCFBDp2" width = "500" height = "500"> 
+  <img src = "Feature4DFBDp2" width = "500" height = "500"> 
   <figcaption>This is the free body diagram of feature D the stiffness analysis</figcaption>
 </figure>
 
@@ -304,7 +304,7 @@ Assumptions:
 
 ## FBD and equations: 
 <figure>
-  <img src = "Feature5ECFBDp2" width = "500" height = "500"> 
+  <img src = "Feature5EFBDp2" width = "500" height = "500"> 
   <figcaption>This is the free body diagram of feature E The stiffness analysis</figcaption>
 </figure>
 
