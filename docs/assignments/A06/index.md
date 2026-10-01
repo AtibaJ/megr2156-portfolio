@@ -16,14 +16,72 @@ To being I had to decided what would be my parametric equations I decided to cre
   <li>THICK_C = The thickness of the base of my web.</li>
   <li>THICK_D = The thickness of the extrusion of feature C</li>
   <li>CENTER = The Center of the feature C</li>
+  <li>RAD_A = The radius of feature A</li>
+  <li>BRACK_DEPTH = The depth of my bracket in general</li>
 </ol>
 
 
-## Cad Design Feature (A) 
+## Cad Design Equations 
 
-Below you can see my design parametrically for feature A
-## Decide
+Below you can see my parametric equations being entered 
+
+<figure>
+  <img src = "A6ParaDesign.png" width = "500" height = "500">
+  <figcaption> The first set of parametric designing</figcaption>
+</figure>
+
+## Cad Design Bracket (A)
+
+This is my first step of feature that I created I started with this as it would be easier to create moving down than going up.
+Here I would make a mistake and input the wrong dimensions and it would mess up the parametric equations as shown in the first image but it would be fixed in the second. 
+
+<figure>
+  <img src = "A6ParaDesign2.png" width = "500" height = "500">
+  <figcaption> The mistake </figcaption>
+</figure>
+
+<figure>
+  <img src = "A6Paradesign3.png" width = "500" height = "500">
+  <figcaption> The second set of parametric designing</figcaption>
+</figure>  
 
 
-## Communicate
+## Cad Design Feature 2(B) 
 
+This shows the creation of my feature B in the bracket design and which dimensions were chosen for parametric equations.  
+<figure>
+  <img src = "A6FeatureBDesign.png" width = "500" height = "500">
+  <figcaption> The second set of parametric designing</figcaption>
+</figure>  
+
+## Cad Design Feature 3(A) 
+
+This shows the creation of my feature A in the design the parametric dimensions were chosen below. 
+<figure>
+  <img src = "A6FeatureDesignA2.png" width = "500" height = "500">
+  <figcaption> The third set of parametric designing</figcaption>
+</figure>
+
+## Drawings 
+
+After completing the entire bracket design I would being to start to create a engineering drawing using the templates from engr1202. 
+First I would check and see if the projection angle was the right view in creo. 
+
+<figure>
+  <img src = "A6TypeAngle.png" width = "500" height = "500">
+  <figcaption> The third angle projection</figcaption>
+</figure>
+
+After this I would begin to add the designs based off of the bracket design parent part. 
+
+
+
+## Lessons Learned 
+
+I learned like in lecture that dimensioning and tolerancing act as the primary language for communicating functional requirements 
+to a manufacturer that are critical for the best final fit. For my design Applying a highly restrictive +0.000 / -0.0005 inch tolerance to the features explicitly communicates that this is a critical load-bearing interface. Signaling to the machinist that the surface must smoothly support a dynamic sliding load without bending even as little as possible. 
+
+
+## Reflections 
+
+Time spent around was 6 hours total I had to go back and fourth to find the pieces I needed to design the part. Thanks to having the stiffness and strain equations solved I was able to find the lengths and widths needed for the part, if the calculated load changed or the required Factor of Safety was increased, only the baseline parameter needed to be updated. The CAD software's relation engine automatically rescaled the necessary structural thicknesses for my bracket design. 
