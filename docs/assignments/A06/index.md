@@ -105,3 +105,11 @@ to a manufacturer that are critical for the best final fit. For my design Applyi
 Time spent around was 6 hours total I had to go back and fourth to find the pieces I needed to design the part. Thanks to having the stiffness and strain equations solved I was able to find the lengths and widths needed for the part, if the calculated load changed or the required Factor of Safety was increased, only the baseline parameter needed to be updated. The CAD software's relation engine automatically rescaled the necessary structural thicknesses for my bracket design. 
 
 ## Download my work:
+
+<a href="bracketdesign.prt1" download>
+  Download Cad
+</a>
+
+<a href="bracketdesign2.drw.1" download>
+  Download Drawing
+</a>
