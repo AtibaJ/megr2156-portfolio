@@ -54,12 +54,20 @@ This shows the creation of my feature B in the bracket design and which dimensio
   <figcaption> The second set of parametric designing</figcaption>
 </figure>  
 
+<figure>
+  <img src = "BDesign.png" width = "500" height = "500">
+</figure>
+
 ## Cad Design Feature 3(A) 
 
 This shows the creation of my feature A in the design the parametric dimensions were chosen below. 
 <figure>
   <img src = "A6FeatureDesignA2.png" width = "500" height = "500">
   <figcaption> The third set of parametric designing</figcaption>
+</figure>
+
+<figure>
+  <img src = "ADesign.png" width = "500" height = "500">
 </figure>
 
 ## Drawings 
@@ -69,12 +77,22 @@ First I would check and see if the projection angle was the right view in creo.
 
 <figure>
   <img src = "A6TypeAngle.png" width = "500" height = "500">
-  <figcaption> The third angle projection</figcaption>
+  <figcaption> The angle of projection </figcaption>
 </figure>
 
 After this I would begin to add the designs based off of the bracket design parent part. 
 
+<figure>
+  <img src = "A6DrawingTol.png" width = "500" height = "500">
+</figure>
 
+## Tolerences 
+
+The horizontal shoulder is the most important part of the bracket because it physically supports the load. I gave it a nominal size of 0.9992 inches, but applied a +0.000 / -0.0005 inch tolerance as shown in the drawing this matches up. 
+
+The Clearance Spaces: The top opening and the bottom cavity aren't bearing the heavy sliding load, they just need to stay out of the way so the T-beam can drop in. I gave these a slightly more forgiving tolerance of +0.000 / -0.001 inches
+
+The tolerances did fit into what I calculated to account for real world bending. 
 
 ## Lessons Learned 
 
@@ -85,3 +103,5 @@ to a manufacturer that are critical for the best final fit. For my design Applyi
 ## Reflections 
 
 Time spent around was 6 hours total I had to go back and fourth to find the pieces I needed to design the part. Thanks to having the stiffness and strain equations solved I was able to find the lengths and widths needed for the part, if the calculated load changed or the required Factor of Safety was increased, only the baseline parameter needed to be updated. The CAD software's relation engine automatically rescaled the necessary structural thicknesses for my bracket design. 
+
+## Download my work:
