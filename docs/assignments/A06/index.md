@@ -108,8 +108,8 @@ Time spent around was 6 hours total I had to go back and fourth to find the piec
 
 <a href="bracketdesign.prt1" download>
   Download Cad
-</a>  
-
+</a>   
+  
 <a href="bracketdesign2.drw.1" download>
   Download Drawing
 </a>
