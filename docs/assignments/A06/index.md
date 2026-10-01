@@ -108,7 +108,7 @@ Time spent around was 6 hours total I had to go back and fourth to find the piec
 
 <ul>
   <li>
-    <a href="bracketdesign.prt1" download>
+    <a href="bracketdesign.prt.2" download>
   Download Cad
 </a> 
   </li>
