@@ -190,6 +190,14 @@ below.
   <figcaption> Showing the displacement </figcaption>
 </figure>  
 
+## Mass
+
+<figure>
+  <img src = "A7Pic31.png" width = "500" height = "500">
+  <figcaption> Showing the first mass</figcaption>
+</figure>  
+
+
 ## Outer Loop (Geometry Change) Round 2 
 
 I increased the round to 0.30 as I knew this would be better 
@@ -198,6 +206,15 @@ I increased the round to 0.30 as I knew this would be better
   <img src = "A7Pic24.png" width = "500" height = "500">
   <figcaption> Showing the next round </figcaption>
 </figure>
+
+
+## Mass
+
+<figure>
+  <img src = "A7Pic30.png" width = "500" height = "500">
+  <figcaption> Showing the second mass</figcaption>
+</figure>  
+
 
 This would give another high stress knowing it wouldn't work I decided to again increase the length of the round and create a bigger 
 thickness. 
@@ -223,13 +240,23 @@ concentration.
   <figcaption> Showing the last simulation</figcaption>
 </figure>  
 
-## Table Data 
-
-<figure>
+figure>
   <img src = "A7Pic28.png" width = "500" height = "500">
   <figcaption> Showing the last stress</figcaption>
 </figure>
 <table>
+
+## Mass
+
+<figure>
+  <img src = "A7Pic29.png" width = "500" height = "500">
+  <figcaption> Showing the last mass</figcaption>
+</figure>  
+
+
+
+
+## Table Data 
 
   <tr>
     <th>Iteration</th>
@@ -254,9 +281,9 @@ concentration.
 
   <tr>
     <td>mass (lbm)</td>
-    <td>2.42</td>
-    <td>2.46</td>
-    <td>2.65</td>
+    <td>1.931</td>
+    <td>1.932</td>
+    <td>1.971</td>
   </tr>
 
   <tr>
