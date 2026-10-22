@@ -248,6 +248,7 @@ concentration.
 
 ## Mass
 
+
 <figure>
   <img src = "A7Pic29.png" width = "500" height = "500">
   <figcaption> Showing the last mass</figcaption>
