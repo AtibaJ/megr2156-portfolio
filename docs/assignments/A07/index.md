@@ -243,7 +243,9 @@ concentration.
 <figure>
   <img src = "A7Pic28.png" width = "500" height = "500">
   <figcaption> Showing the last stress</figcaption>
-</figure> 
+</figure>  
+
+
 
 ## Mass  
 
