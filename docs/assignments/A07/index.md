@@ -158,7 +158,7 @@ the displacement converged by.
 I would have a safety factor for this one of 0.41 when I take the absolute value of the A1606 and divided the stress in the simulation. 
 By doing 40,000/97,123 I got 0.41 which isn't enough in fact we went down which led to choosing the second mesh. 
 
-## Outer Loop (Geometry Change) 
+## Outer Loop (Geometry Change) Round 1
 
 With my displacement converges done I decided to select the second mesh and move onto my outer loop. I would begin by creating a round 
 on my part to cut down some of the maximum stress being applied from the load of 1200 lbs, as shown in the image below. 
@@ -188,15 +188,21 @@ below.
 <figure>
   <img src = "A7Pic23.png" width = "500" height = "500">
   <figcaption> Showing the displacement </figcaption>
-</figure>
+</figure>  
 
-I increased the round to 0.30 as I knew this would be better and I also increased the thickness of feature e to give more strength to the 
-part as shown in the pictures below. 
+## Outer Loop (Geometry Change) Round 2 
+
+I increased the round to 0.30 as I knew this would be better 
 
 <figure>
   <img src = "A7Pic24.png" width = "500" height = "500">
   <figcaption> Showing the next round </figcaption>
 </figure>
+
+This would give another high stress knowing it wouldn't work I decided to again increase the length of the round and create a bigger 
+thickness. 
+
+## Outer Loop (Geometry Change) Round 3
 
 <figure>
   <img src = "A7Pic25.png" width = "500" height = "500">
