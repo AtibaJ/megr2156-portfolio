@@ -221,17 +221,64 @@ concentration.
 <figure>
   <img src = "A7Pic27.png" width = "500" height = "500">
   <figcaption> Showing the last simulation</figcaption>
-</figure>
+</figure>  
 
+## Table Data 
 
 <figure>
   <img src = "A7Pic28.png" width = "500" height = "500">
   <figcaption> Showing the last stress</figcaption>
 </figure>
+<table>
+
+  <tr>
+    <th>Iteration</th>
+    <th>Design 1(Baseline) </th>
+    <th>Design 2(0.10 round)</th>
+    <th>Design 3(0.3 round thicker base)</th>
+  </tr>
+
+  <tr>
+    <td>Max Stress and location At the Fillet</td>
+    <td>97,123</td>
+    <td>84,460</td>
+    <td>21,803</td>
+  </tr>
+ 
+  <tr>
+    <td>Deflection (*10^-4) At the Pin</td>
+    <td>1.3942</td>
+    <td>1.2960</td>
+    <td>1.25</td>
+  </tr>
+
+  <tr>
+    <td>mass (lbm)</td>
+    <td>2.42</td>
+    <td>2.46</td>
+    <td>2.65</td>
+  </tr>
+
+  <tr>
+    <td>Safety Factor</td>
+    <td>0.41</td>
+    <td>0.47</td>
+    <td>1.83</td>
+  </tr>
+
+  <tr>
+    <td>ELement Number</td>
+    <td>1,368</td>
+    <td>8,570</td>
+    <td>8,590</td>
+  </tr>
+</table>
 
 
-## Decide
+## Communicate  
 
-
-## Communicate
+In this assignment I learned how the differing mesh sizes can change the accuracy of a stress von mises simulation, I as well learned the 
+importance of applying fillets to designs as without it my stress as well below any safety factor I had. I as well learned how to create 
+a design and apply different materials and load properties to that design. This design took me around 12 hours, 8 of those hours came from
+cad problems as it would take more than a day to fix those. The other 4 hours came from not having the right calculations. 
 
