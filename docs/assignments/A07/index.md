@@ -243,8 +243,7 @@ concentration.
 <figure>
   <img src = "A7Pic28.png" width = "500" height = "500">
   <figcaption> Showing the last stress</figcaption>
-</figure>
-<table>  
+</figure> 
 
 ## Mass  
 
@@ -259,6 +258,7 @@ concentration.
 
 ## Table Data   
 
+<table> 
   <tr>
     <th>Iteration</th>
     <th>Design 1(Baseline) </th>
@@ -312,6 +312,7 @@ cad problems as it would take more than a day to fix those. The other 4 hours ca
 
 
 ## Cad 
+
 <ul>
   <li>
     <a href="bracketa7.prt.1" download>
