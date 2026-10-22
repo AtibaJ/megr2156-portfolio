@@ -244,20 +244,20 @@ concentration.
   <img src = "A7Pic28.png" width = "500" height = "500">
   <figcaption> Showing the last stress</figcaption>
 </figure>
-<table>
+<table>  
 
-## Mass
+## Mass  
 
 
 <figure>
   <img src = "A7Pic29.png" width = "500" height = "500">
   <figcaption> Showing the last mass</figcaption>
-</figure>  
+</figure>    
 
 
 
 
-## Table Data 
+## Table Data   
 
   <tr>
     <th>Iteration</th>
