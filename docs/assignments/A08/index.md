@@ -95,6 +95,10 @@ pressure, material properties, and boundary conditions.
 
 ## McMaster-Carr Journal-Bearing Selection
 
+## Cad Design
+
+
+
 
 
 
