@@ -314,7 +314,34 @@ The little bearing was the, Oil-Embedded SAE 841 Bronze Sleeve Bearing on McMast
 
 
 
-## Download the Cad: 
+## Download the Cad files 
+
+<ul>
+  <li>
+    <a href="gearbox.prt.1" download>
+  Download Gear box parts
+</a> 
+  </li>
+  <li>
+   <a href="larger_gear.prt.1" download>
+  Download Larger Gear
+</a> 
+  </li>
+  <li>
+   <a href="small_gear.prt.1" download>
+  Download Smaller Gear
+</a> 
+  </li>
+  <li>
+   <a href="small_gear.prt.1" download>
+  Download Smaller Gear
+</a> 
+  </li>
+  <li>
+   <a href="small_gear.prt.1" download>
+  Download Smaller Gear
+</a> 
+  </li>
 
 
 
