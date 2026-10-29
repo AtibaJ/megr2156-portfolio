@@ -30,8 +30,6 @@ how to design our input and output shafts for gearbox.
  </ol>
 
 
-## FBD For Input Shaft: 
-
 
 
 ## Output shaft: 
@@ -52,7 +50,6 @@ __Uknowns__
 </ol>
 
 
-## FBD For Output Shaft: 
 
 
 ## Design of Journal Bearing (Sizing, Pressure, Velocity, and PV Rating): 
@@ -72,7 +69,6 @@ __Unknowns__
     for eachbearing.</li>
 </ol>
 
-## FBD OF Journal Bearing 
 
 
 ## Design of Journal Bearing Wall thickness
@@ -89,9 +85,7 @@ __knowns__
 __Unknowns__
 
 Leaving our only unknown to be, whether the selected wall thickness meets the stress and press-fit requirements. This requires the interference
-pressure, material properties, and boundary conditions.
-
-## FBD and stresses: 
+pressure, material properties, and boundary conditions. 
 
 ## McMaster-Carr Journal-Bearing Selection
 
@@ -290,25 +284,37 @@ Finally the gear box is done and awaiting screws for it to be fully assembled.
   <figcaption> Showing second gear in the new assembly file.</figcaption>
 </figure>
 
+Next after the gears and shafts were added I finally, added the bearings the first is the little bearing part as shown below.
+
+
+<figure>
+  <img src = "A9_25.png" width = "500" height = "500">
+  <figcaption> Showing little bearing being added.</figcaption>
+</figure>
+
+After this I constrained this bearing as shown below. 
+
+<figure>
+  <img src = "A9_26.png" width = "500" height = "500">
+  <figcaption> Showing little bearing being added.</figcaption>
+</figure>
+
+Finally after everything was set up this was the lower half of the gear box. 
+
+
+<figure>
+  <img src = "A9_27.png" width = "500" height = "500">
+  <figcaption> Showing little bearing being added.</figcaption>
+</figure>
+
+## Bearings used 
+
+The little bearing was the, Oil-Embedded SAE 841 Bronze Sleeve Bearing on McMaster, part number 6391K12. The larger bearing was part number, 6391K1. 
 
 
 
 
+## Download the Cad: 
 
 
-
-
-
-
-
-
-
-
-## Analyze
-
-
-## Decide
-
-
-## Communicate
 
