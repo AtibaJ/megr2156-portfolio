@@ -95,6 +95,18 @@ pressure, material properties, and boundary conditions.
 
 ## McMaster-Carr Journal-Bearing Selection
 
+1. **Input Shaft Sleeve Bearing:**
+   - **Part Number:** McMaster-Carr #6391K12
+   - **Material:** Oil-Embedded SAE 841 Bronze
+   - **Dimensions:** 1/8" ID x 1/4" OD x 1/4" Length
+   - **Application:** Fits the 0.125" input shaft and press-fits into the 0.250" housing bearing bore.
+
+2. **Output Shaft Sleeve Bearing:**
+   - **Part Number:** McMaster-Carr #6391K15
+   - **Material:** Oil-Embedded SAE 841 Bronze
+   - **Dimensions:** 1/4" ID x 3/8" OD x 1/4" Length
+   - **Application:** Fits the 0.250" output shaft and press-fits into the 0.375" housing bearing bore.
+
 ## Cad Design -
 
 To start this Cad design I would create the parametric equations using both the dimensions from the gears and what we calculated from our freebody diagrams. 
