@@ -37,8 +37,17 @@ mechanical power transmission system from scratch.
 
 ## FBD solving for cross sectional area 
 
+<figure>
+  <img src = "FBD1.jpeg" width = "500" height = "500">
+  <figcaption> This shows the algebric solutions and the freebody diagram of the two pullies in the system.</figcaption>
+</figure>
 
+Below is the second part solving for the length and the cross sectional area needed. 
 
+<figure>
+  <img src = "FBD2.jpeg" width = "500" height = "500">
+  <figcaption> This shows the cross sectional area and the length required. </figcaption>
+</figure>
 
 
 ## Shaft Design 
@@ -62,6 +71,8 @@ mechanical power transmission system from scratch.
   <li> The minimum shaft polar moment of inerta</li>
   <li> The minimum shaft diameter</li>
 </ol>
+
+## FBD 
 
 
 ## Journal Bearing : 
