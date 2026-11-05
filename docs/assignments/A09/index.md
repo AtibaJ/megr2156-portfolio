@@ -41,7 +41,50 @@ mechanical power transmission system from scratch.
 
 
 
-## Decide
+## Shaft Design 
+
+## Knowns for shaft : 
+
+<ol>
+  <li>The torque on trasmitted through the shaft is 7.59 in per lbf</li>
+  <li>The materal chosen was 1060 hardend steel</li>
+  <li>The tensile strength of this steel is 90 ksi</li>
+  <li>The shear yield strength is 358 mpa</li>
+  <li>The safety factor the design is 3</li>
+  <li>The bending load is 44.38 N</li>
+</ol>
+
+## Unknowns for shaft : 
+
+<ol>
+  <li> The allowable stress</li>
+  <li> The minimum shaft cross sectional area</li>
+  <li> The minimum shaft polar moment of inerta</li>
+  <li> The minimum shaft diameter</li>
+</ol>
+
+
+## Journal Bearing : 
+
+## Knowns : 
+
+<ol>
+  <li> Shaft Radial Load = 44.48 N </li>
+  <li> Shaft Rotaional Speed = 1500 rpm</li>
+  <li> Nominal journal / Shaft diameter = 0.500 in</li>
+  <li> Bearing Nominal Length  = 0.500 in</li>
+  <li> Safety factor = 3</li>
+</ol>
+
+## Unknowns : 
+
+<ol>
+  <li> Projected Bearing Area</li>
+  <li> Bearing Unit Pressure</li>
+  <li> Linear Surface sliding Velocity</li>
+  <li> Operating PV Factor</li>
+  <li> Suitable Bearing material</li>
+</ol>
 
 
 ## Communicate
