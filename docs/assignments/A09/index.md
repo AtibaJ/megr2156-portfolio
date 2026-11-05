@@ -72,7 +72,25 @@ Below is the second part solving for the length and the cross sectional area nee
   <li> The minimum shaft diameter</li>
 </ol>
 
-## FBD 
+## FBD :
+
+Below is the Freebody diagram for the shaft and the algebraic solutions for the cross sectional area 
+
+<figure>
+  <img src = "FBD3.jpeg" width = "500" height = "500">
+  <figcaption> This shows the cross sectional area and the length required. </figcaption>
+</figure>
+
+
+Below are the numerical solutions for the area and diameter. 
+
+
+<figure>
+  <img src = "FBD4.jpeg" width = "500" height = "500">
+  <figcaption> This shows the cross sectional area and the length required. </figcaption>
+</figure>
+
+
 
 
 ## Journal Bearing : 
