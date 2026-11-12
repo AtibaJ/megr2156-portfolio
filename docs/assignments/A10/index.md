@@ -11,7 +11,7 @@ For my part of the project, I focused on sizing the leadscrew drivetrain for our
   <figure style="display: inline-block; width: 100%; max-width: 900px; margin: 0 auto;">
     <iframe src="Leadscrew_Hand_Calculations.pdf" width="100%" height="600px" style="border: 1px solid #ccc; border-radius: 4px;">
       <p>Your browser does not support iframes. 
-         <a href="Leadscrew_Hand_Calculations.pdf">Download the Hand Calculations PDF instead.</a>
+         <a href="Leadscrew_Hand_Calculations (1).pdf">Download the Hand Calculations PDF instead.</a>
       </p>
     </iframe>
     <figcaption style="font-size: 0.85em; color: gray; margin-top: 8px;">
