@@ -28,7 +28,7 @@ For my part of the project, I focused on sizing the leadscrew drivetrain for our
 
 <div align="center" style="margin: 20px 0;">
   <figure style="display: inline-block; width: 100%; max-width: 900px; margin: 0 auto;">
-    <iframe src="Precision Acme Flange Nut, 1_2_-10 Thread Size _ McMaster-Carr.pdf" width="100%" height="600px" style="border: 1px solid #ccc; border-radius: 4px;">
+    <iframe src="Precision Acme Flange Nut, 1_2_-10 Thread Size _ McMaster-Carr.pdf (1)" width="100%" height="600px" style="border: 1px solid #ccc; border-radius: 4px;">
       <p>Your browser does not support iframes. 
          <a href="Precision Acme Flange Nut, 1_2_-10 Thread Size _ McMaster-Carr.pdf">Download the McMaster-Carr Flange Nut Spec Sheet PDF instead.</a>
       </p>
