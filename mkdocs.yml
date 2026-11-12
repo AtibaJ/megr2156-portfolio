@@ -28,10 +28,11 @@ nav:
       - A11: assignments/A11/index.md
 
 plugins:
-    -search
-    -glightbox
-    -mkdocs-video
+  - search
+  - glightbox
+  - mkdocs-video
 
 markdown_extensions:
-    -attr_list
-    -md_in_html
+  - attr_list
+  - md_in_html
+  
