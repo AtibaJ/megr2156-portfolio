@@ -98,7 +98,7 @@ Given the constraints on the crosshead, I had to find the stress and deflection 
 
 ---
 
-## Bill of Materials / Table Data (Atiba Johnson) 
+## Bill of Materials & Cost Analysis (Atiba Johnson)
 
 | Item # | Qty | Name | Cost / Item | Total Cost | Purchase Link |
 | :---: | :---: | :--- | :---: | :---: | :--- |
@@ -107,6 +107,32 @@ Given the constraints on the crosshead, I had to find the stress and deflection 
 | 3 | 4 | T-Slotted Framing Single Rail, 40 mm x 40 mm, 2 ft. Long | $21.15 | $84.60 | [Link](https://www.mcmaster.com/6575N25/) |
 | 4 | 8 | T-Slotted Framing Bracket | $7.06 | $56.48 | [Link](https://www.mcmaster.com/5537T937/) |
 | **Total** | | | | **$628.76** | |
+
+---
+
+## Lessons Learned & Project Takeaways
+
+- **Team Coordination:** Working as a group really highlighted how important it is to communicate early and lock down key interfaces—like keeping our center-to-center span and hole clearances aligned between the drivetrain calculations and the crosshead CAD.
+- **Checking Multiple Constraints:** Comparing our stress and deflection limits showed us why it's critical to evaluate different failure modes instead of just relying on the first number you calculate, since the stricter requirement ended up driving our final thickness.
+- **Hardware Selection:** We learned quickly that generic off-the-shelf parts don't always cut it for load-bearing applications, so taking the extra time to track down rated components gave us much more confidence in the actual safety factors of our design.
+
+  ---
+  
+<div align="center" style="margin: 25px 0; gap: 12px; display: flex; justify-content: center; flex-wrap: wrap;">
+  <a href="A10.zip" download="A10.zip" style="
+    background-color: #1976d2; 
+    color: white; 
+    text-decoration: none;
+    padding: 12px 22px; 
+    font-size: 0.95em; 
+    font-weight: bold; 
+    border-radius: 5px; 
+    box-shadow: 0 2px 5px rgba(0,0,0,0.15);
+    display: inline-block;
+    transition: background-color 0.2s;">
+    📦 Download All Project Files &amp; Calculations (.zip)
+  </a>
+</div>
 
 <script>
   MathJax = {
